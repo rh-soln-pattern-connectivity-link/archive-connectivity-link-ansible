@@ -12,7 +12,7 @@ ocp4_workload_connectivity_link_aws_managed_zone_id=<Managed Zone ID>
 # E.g.: globex.sandbox902.opentlc.com
 ocp4_workload_connectivity_link_aws_managed_zone_domain=<Managed Zone domain>
 
-# E.g.: eu-central-1
+# E.g.: This is the region where you have OpenShift running. (example eu-central-1)
 ocp4_workload_connectivity_link_aws_managed_zone_region=<Managed Zone region>
 
 #your email address
